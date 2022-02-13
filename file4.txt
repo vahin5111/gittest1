@@ -1,2 +1,4 @@
 hi this is file4 in branch1
 hi this is file4 in master
+
+testing stash
